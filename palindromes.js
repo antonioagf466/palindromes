@@ -21,7 +21,6 @@ function check(){
         result.textContent = "Not a palindrome!"; 
         result.style.color = "red"; 
 
-    result.style.visibility = "visible"; 
     input.value = ""; 
 }
 }
